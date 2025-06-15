@@ -81,7 +81,7 @@ This project presents a detailed exploratory data analysis (EDA) of the global A
 git clone https://github.com/Prishatank0607/Global_AI_Job_Market_Trends_EDA_2025.git
 
 # Navigate to the project folder
-cd global-ai-job-market-trends-2025
+cd Global_AI_Job_Market_Trends_EDA_2025
 
 # (Optional) Set up a virtual environment
 python -m venv venv
